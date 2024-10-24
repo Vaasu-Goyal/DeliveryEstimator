@@ -1,0 +1,21 @@
+{
+    "data": {
+        "courier_aggregate": {
+            "aggregate": {
+                "totalCount": 1
+            }
+        },
+        "courier": [
+            {
+                "id": 1,
+                "name": "Amazon",
+                "active": true
+            },
+            {
+                "id": 2,
+                "name": "UPS",
+                "active": true
+            }
+        ]
+    }
+}
